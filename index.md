@@ -64,5 +64,3 @@ Cette politique peut évoluer si l'app change (nouvelle fonctionnalité, nouveau
 Pour toute question sur cette politique ou tes données : **elliot.gosset@outlook.com**
 
 ---
-
-*Ce document est fourni à titre de modèle de base et ne constitue pas un avis juridique. Avant publication officielle, il est recommandé de le faire relire par un·e professionnel·le du droit, en particulier si tu prévois de proposer l'app en dehors de la Suisse.*
